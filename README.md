@@ -138,15 +138,12 @@ In order to complete this analysis successfully, you will first need to set up t
    py -m pip install yfinance
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -155,7 +152,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/MRosan117/senator_trading_performance/tree/main](https://github.com/MRosan117/senator_trading_performance/tree/main)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -169,8 +165,6 @@ Project Link: [https://github.com/MRosan117/senator_trading_performance/tree/mai
 * [https://holoviz.org/tutorial/Interactive_Pipelines.html]()
 * [https://hvplot.holoviz.org/user_guide/Pandas_API.html]()
   
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
