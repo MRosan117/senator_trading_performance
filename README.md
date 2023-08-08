@@ -16,34 +16,10 @@
   <p align="center">
     This project analyzes and publishes the public transaction information of members of Congress and Senators in the United States, focusing specifically on their trades in company shares around the world. The data reveals which politicians have vested interests in particular stocks and provides insight into which positions have increased or decreased.
     <br />
-    #<a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">
   </p>
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -68,7 +44,7 @@
 `pip3 install matplotlib` <br>
 `pip3 install plotly` <br>
 ### APIs
-* **[yfinance](https://pypi.org/project/yfinance/ "pypi yfinance Project Page")** | *Market data*
+* **[YFinance](https://pypi.org/project/yfinance/ "pypi yfinance Project Page")** | *Market data*
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -78,7 +54,7 @@
 ### Heatmap
 
   <p align="center">
-    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+    For this section of the analysis, we use a heatmap as a graphical representation of data that was used to represent Senators' excess return, using a color-coding system to represent different timeframes.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png"> 
@@ -90,7 +66,7 @@
 ### Investment By Industries
 
   <p align="center">
-    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+    For this section of the analysis, we calculate the investments by industry using numerical and visual aggregation, and then visualize the results as a bar chart. 
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
@@ -98,7 +74,7 @@
 ### Senators' By States
 
   <p align="center">
-    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+    In this section of the analysis, we add geospatial data and use interactive visualizations with hvPlot and GeoViews to investigate the data's relationships. We construct our map using a modified DataFrame that combines Senators' locations with state coordinates.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/Map.png"> 
@@ -106,7 +82,7 @@
 ### Transactions Per State
 
   <p align="center">
-    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+    We explore the transactions carried out by senators on a by party basis using an interactive visualization the data in the form of a bar chart.We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/bokeh_plot(1).png"> 
@@ -114,7 +90,7 @@
 ### Trades Per Senators'
 
   <p align="center">
-    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+    Using an interactive visualization in the form of a bar chart, we investigate the transactions carried out by senators on a state-by-state basis. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/senate_plot.jpg"> 
@@ -122,25 +98,38 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* Pandas
+  ```sh
+  pip install pandas
 * npm
   ```sh
   npm install npm@latest -g
   ```
+* matplotlib
+  ```sh
+  python -m pip install -U pip
+  python -m pip install -U matplotlib
+  ```
+* matplotlib
+  ```sh
+   pip install plotly_express==0.4.0
+  ```
+* YFinance
+  ```sh
+   pip install yfinance
+  ``` 
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
+1. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+2. If you get the error 'pip' is not recognized as an internal or external command, use the python -m command when installing yfinance.`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   python -m pip install yfinance
+   python3 -m pip install yfinance
+   py -m pip install yfinance
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,23 +145,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -186,9 +158,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/MRosan117/senator_trading_performance/tree/main](https://github.com/MRosan117/senator_trading_performance/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,8 +167,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [https://senatestockwatcher.com/]()
+* [https://finance.yahoo.com/]()
 * [https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md]()
-* []()
+* [https://holoviz.org/tutorial/Interlinked_Plots.html]()
+* [https://holoviz.org/tutorial/Interactive_Pipelines.html]()
+* [https://hvplot.holoviz.org/user_guide/Pandas_API.html]()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
