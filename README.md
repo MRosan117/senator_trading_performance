@@ -28,7 +28,12 @@
 
 <img src="https://github.com/Nievz/Project_One_Draft/blob/main/Images/ezgif.com-gif-maker.gif" alt="Logo" width="1000" height="250">
   <p align="center">
-    Several US senators who traded stocks during their terms saw significant gains in their portfolios. The concern is that, despite publicly implying otherwise, these senators traded in anticipation of news that would have a significant impact on financial markets. 
+    The purpose of this analysis is to determine whether Senators' portfolios tend to outperform the market as a whole. We analyze the investments using open-source data to determine if they support the notion that senators use their informational advantages for personal gain.
+Several US senators who traded stocks during their terms saw significant gains in their portfolios. The concern is that, despite publicly implying otherwise, these senators traded in anticipation of news that would have a significant impact on financial markets. 
+  </p>
+  <p align="center">
+    We used data from Senators' common stock purchases and sales, as well as the date and approximate value of the transactions, for this analysis. We only consider assets not held in qualified blind trust because Senators do not report holdings or transactions on any assets held in qualified blind trust. Our data does have some limitations; for example, we cannot calculate the magnitude of profits earned by individual senators. Senators only report transaction dollar volumes within broad ranges.
+
   </p>
 
   <p align="center" style="display: flex;" >
@@ -47,7 +52,8 @@
 * **[YFinance](https://pypi.org/project/yfinance/ "pypi yfinance Project Page")** | *Market data*
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Data and Research Design
+
 
 <img src="https://github.com/Nievz/Project_One_Draft/blob/main/Images/about.jpg">
 
@@ -135,17 +141,6 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- LICENSE -->
 ## License
 
@@ -173,7 +168,7 @@ Project Link: [https://github.com/MRosan117/senator_trading_performance/tree/mai
 * [https://holoviz.org/tutorial/Interlinked_Plots.html]()
 * [https://holoviz.org/tutorial/Interactive_Pipelines.html]()
 * [https://hvplot.holoviz.org/user_guide/Pandas_API.html]()
-* []()
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
