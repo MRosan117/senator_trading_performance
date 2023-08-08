@@ -65,10 +65,6 @@ Several US senators who traded stocks during their terms saw significant gains i
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png"> 
 
-
-
-<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/image.png" width="1000" height="700">
-
 ### Investment By Industries
 
   <p align="center">
@@ -88,7 +84,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 ### Transactions Per State
 
   <p align="center">
-    We explore the transactions carried out by senators on a by party basis using an interactive visualization the data in the form of a bar chart.We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
+    We explore the transactions carried out by senators on a by party basis using an interactive visualization the data in the form of a bar chart. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/bokeh_plot(1).png"> 
