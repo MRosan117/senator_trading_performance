@@ -103,7 +103,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+In order to complete this analysis successfully, you will first need to set up the environment in which Python will be developed. More specifically, this analysis calls for the following:
 * Pandas
   ```sh
   pip install pandas
