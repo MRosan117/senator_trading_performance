@@ -75,8 +75,49 @@
 
 <img src="https://github.com/Nievz/Project_One_Draft/blob/main/Images/about.jpg">
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Heatmap
+
+  <p align="center">
+    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png"> 
+
+
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/image.png" width="1000" height="700">
+
+### Investment By Industries
+
+  <p align="center">
+    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
+
+### Senators' By States
+
+  <p align="center">
+    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/Map.png"> 
+
+### Transactions Per State
+
+  <p align="center">
+    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/bokeh_plot(1).png"> 
+
+### Trades Per Senators'
+
+  <p align="center">
+    TThis heatmap is a graphical representation of data that was used to represent Senators' excess return by using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/senate_plot.jpg"> 
 
 ### Prerequisites
 
