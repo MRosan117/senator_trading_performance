@@ -54,8 +54,9 @@ Several US senators who traded stocks during their terms saw significant gains i
 <!-- GETTING STARTED -->
 ## Data and Research Design
 
+### Box Plot
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/box.png"> 
 
-<img src="https://github.com/Nievz/Project_One_Draft/blob/main/Images/about.jpg">
 
 ### Heatmap
 
