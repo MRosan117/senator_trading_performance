@@ -73,7 +73,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
 
-### Senators' By States
+### Senators' By State
 
   <p align="center">
     In this section of the analysis, we add geospatial data and use interactive visualizations with hvPlot and GeoViews to investigate the data's relationships. We construct our map using a modified DataFrame that combines Senators' locations with state coordinates.
@@ -81,7 +81,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/Map.png"> 
 
-### Transactions Per State
+### Transactions by State
 
   <p align="center">
     We explore the transactions carried out by senators on a by party basis using an interactive visualization the data in the form of a bar chart. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
@@ -89,7 +89,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/bokeh_plot(1).png"> 
 
-### Trades Per Senators'
+### Transactions by Political Party'
 
   <p align="center">
     Using an interactive visualization in the form of a bar chart, we investigate the transactions carried out by senators on a state-by-state basis. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
