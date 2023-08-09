@@ -54,26 +54,6 @@ Several US senators who traded stocks during their terms saw significant gains i
 <!-- GETTING STARTED -->
 ## Data and Research Design
 
-### Box Plot
-<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/box.png"> 
-
-
-### Heatmap
-
-  <p align="center">
-    For this section of the analysis, we use a heatmap as a graphical representation of data that was used to represent Senators' excess return, using a color-coding system to represent different timeframes.
-  </p>
-
-<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png"> 
-
-### Investment By Industries
-
-  <p align="center">
-    For this section of the analysis, we calculate the investments by industry using numerical and visual aggregation, and then visualize the results as a bar chart. 
-  </p>
-
-<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
-
 ### Senators' By State
 
   <p align="center">
@@ -97,6 +77,25 @@ Several US senators who traded stocks during their terms saw significant gains i
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/senate_plot.jpg"> 
+
+### Investment By Industries
+
+  <p align="center">
+    For this section of the analysis, we calculate the investments by industry using numerical and visual aggregation, and then visualize the results as a bar chart. 
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
+
+### Box Plot
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/box.png"> 
+
+### Heatmap
+
+  <p align="center">
+    For this section of the analysis, we use a heatmap as a graphical representation of data that was used to represent Senators' excess return, using a color-coding system to represent different timeframes.
+  </p>
+
+<img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png">
 
 ### Prerequisites
 
