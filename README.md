@@ -57,7 +57,7 @@ Several US senators who traded stocks during their terms saw significant gains i
 ### Senators' By State
 
   <p align="center">
-    In this section of the analysis, we add geospatial data and use interactive visualizations with hvPlot and GeoViews to investigate the data's relationships. We construct our map using a modified DataFrame that combines Senators' locations with state coordinates.
+    Beginning our analysis, we created a visual representation of each senator and state to help draw conclusions on whether or not the geographical location contained any noticeable increases in the number of transactions. In this section, we add geospatial data and use interactive visualizations with GeoViews and hvPlot to investigate the data's relationships. We construct our map using a modified data frame that combines Senators' locations with state coordinates.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/Map.png"> 
@@ -65,15 +65,15 @@ Several US senators who traded stocks during their terms saw significant gains i
 ### Transactions by State
 
   <p align="center">
-    We explore the transactions carried out by senators on a by party basis using an interactive visualization the data in the form of a bar chart. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
+    Continuing our analysis, we explore the transactions carried out by senators using an interactive visualization  in the form of a bar chart. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators. Based on the data we immediately noticed that 30% of all transactions carried out since 2013 have been done by the state of Georgia. Even more notably, David Purdue (R) is in large part responsible for a vast majority of the data set making up 27% of all transactions during his term in office from 2015 to 2021. Beyond Georgia, the data shows that some large state players are found within Alabama, Delaware, Kansas, and Rhode Island.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/bokeh_plot(1).png"> 
 
-### Transactions by Political Party'
+### Transactions by Political Parties
 
   <p align="center">
-    Using an interactive visualization in the form of a bar chart, we investigate the transactions carried out by senators on a state-by-state basis. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators.
+    Moving on, using an interactive visualization in the form of a bar chart, we investigate the number of transactions carried out by senators in relation to their political party. We construct our bar chart utilizing Opensource data, which includes the transaction data pertaining to Senators. Based on our findings, we see that Republicans are responsible for approximately 4 million transactions whereas Democrats managed a much smaller but still notable 600 thousand.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/senate_plot.jpg"> 
@@ -81,21 +81,32 @@ Several US senators who traded stocks during their terms saw significant gains i
 ### Investment By Industries
 
   <p align="center">
-    For this section of the analysis, we calculate the investments by industry using numerical and visual aggregation, and then visualize the results as a bar chart. 
+    For this section of the analysis, we calculate the investments by industry using numerical and visual aggregation and then visualize the results as a bar chart. The goal of this visualization is to identify whether or not senators tend to transact more in industries subject to higher levels of federal regulation. Our findings concluded that not only do senators invest considerably into major banks, a widely recognized heavily regulated industry, but that major pharmaceuticals and semiconductors are not too far behind. In recent years, it is these industries where we have seen a notable increase in policies and legislation that can affect these markets. It is these same industries where senators are more likely to invest and more likely to receive considerable excess returns as we will soon come to find.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/industry.png" width="900" height="900"> 
 
 ### Box Plot
+
+<p align="center">
+    Now that we have established a basis for our continued analysis, we look into just how well our senators are performing in comparison to the markets. For this section of the analysis, we aggregate our data to showcase the excess returns senators produce in relation to the S&P 500 through their purchase transactions. We then visualize the data as a box plot to better represent the summative details of our findings. As a result, we see that on average, senators' performance is tied closely to the overall performance of the market. Initially, this does throw into question whether or not the influence and access to information held by senators create an advantage, but under further investigation, we see that in the cases of Bank of America and Microsoft, senators begin to outperform the market by nearly 10% after 180 days.
+  </p>
+
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/box.png"> 
 
 ### Heatmap
 
   <p align="center">
-    For this section of the analysis, we use a heatmap as a graphical representation of data that was used to represent Senators' excess return, using a color-coding system to represent different timeframes.
+    To further shed light on our findings in the previous section, we thought it best to see if any senator has performed unusually well throughout our dataset. For this section of the analysis, we use a heatmap as a graphical representation of data that was used to represent Senators' excess return, using a color-coding system to represent different timeframes. Based on our findings, Susan M. Collins (R) immediately stood out from the pack boasting 10% in excess returns across all time periods with her transaction count in excess of 300. In addition, Dan Sullivan (R), Jack Reed (D), Shelley Moore Capito (R), and Tommy Tuberville (R) performed exceptionally well after 180 days with excess returns above 10% and approaching 15%. A considerable accomplishment considering the reality of the stock market for many.
   </p>
 
 <img src="https://github.com/MRosan117/senator_trading_performance/blob/main/Images/heatmap.png">
+
+### Conclusion
+
+  <p align="center">
+    In the end, does being in the Senate equal an advantage in the stock market? The empirical data is not so clear. However, one will be hard-pressed to find a senator who isn't at least performing at the market level. Moreover, we find certain senators doing considerably well for themselves and may warrant further investigation if we had the time. We hope that our findings shed light on the world of Senator trading... and even provide a few traders to follow!
+  </p>
 
 ### Prerequisites
 
