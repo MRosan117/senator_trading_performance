@@ -32,7 +32,7 @@
 Several US senators who traded stocks during their terms saw significant gains in their portfolios. The concern is that, despite publicly implying otherwise, these senators traded in anticipation of news that would have a significant impact on financial markets. 
   </p>
   <p align="center">
-    We used data from Senators' common stock purchases and sales, as well as the date and approximate value of the transactions, for this analysis. We only consider assets not held in qualified blind trust because Senators do not report holdings or transactions on any assets held in qualified blind trust. Our data does have some limitations; for example, we cannot calculate the magnitude of profits earned by individual senators. Senators only report transaction dollar volumes within broad ranges.
+    We used data from Senators' common stock purchases and sales, as well as the date and approximate value of the transactions, for this analysis. We only consider assets not held in qualified blind trust because Senators do not report holdings or transactions on any assets held in qualified blind trust. Our data does have some limitations; for example, we cannot calculate the magnitude of profits earned by individual senators. Senators only report transaction dollar volumes within broad ranges. If we had more time we would use the same complete process to analyze similar data from the House of Representatives. 
 
   </p>
 
