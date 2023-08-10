@@ -1,0 +1,701 @@
+id,asset_type,industry
+1,Stock,Real Estate Investment Trusts
+2,Stock,Trucking Freight/Courier Services
+3,Stock,Restaurants
+4,Stock,Power Generation
+5,Stock,"Computer Software: Programming, Data Processing"
+6,Stock,Recreational Products/Toys
+7,Stock,Services-Misc. Amusement & Recreation
+8,Stock,Television Services
+9,Stock,Computer Software: Prepackaged Software
+10,Stock,Catalog/Specialty Distribution
+11,Stock,Business Services
+12,Stock,"Computer Software: Programming, Data Processing"
+13,Stock,Interactive Media
+14,Stock,Consumer Electronics/Video Chains
+15,Stock,Restaurants
+16,Stock Option,Precious Metals
+17,Stock,Auto Manufacturing
+18,Stock,Computer Software: Prepackaged Software
+19,Stock,Steel/Iron Ore
+20,Stock Option,Oil & Gas Production
+21,Stock Option,Containers/Packaging
+22,Stock,Medical/Dental Instruments
+23,Stock Option,Oil & Gas Production
+24,Stock Option,Food Chains
+25,Stock Option,Packaged Foods
+26,Stock Option,Movies/Entertainment
+27,Stock Option,Computer Manufacturing
+28,Stock Option,Auto Manufacturing
+29,Stock Option,Semiconductors
+30,Stock,Investment Bankers/Brokers/Service
+31,Stock,Investment Managers
+32,Stock,Telecommunications Equipment
+33,Stock,Industrial Machinery/Components
+34,Stock Option,Computer Software: Prepackaged Software
+35,Stock,Homebuilding
+36,Stock,Industrial Machinery/Components
+37,Stock,Other Consumer Services
+38,Stock,Restaurants
+39,Stock,Major Pharmaceuticals
+40,Stock,Oil & Gas Production
+41,Stock,Other Specialty Stores
+42,Stock,Homebuilding
+43,Stock,Electric Utilities: Central
+44,Stock,Railroads
+45,Stock,Industrial Machinery/Components
+46,Stock,Semiconductors
+47,Stock,Finance: Consumer Services
+48,Stock,Semiconductors
+49,Stock,Biotechnology: Laboratory Analytical Instruments
+50,Stock,Specialty Insurers
+51,Stock,Industrial Machinery/Components
+52,Stock,Major Banks
+53,Stock,Industrial Machinery/Components
+54,Stock,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+55,Stock,Precious Metals
+56,Stock,EDP Services
+57,Stock,Internet and Information Services
+58,Stock,Business Services
+59,Stock,Industrial Specialties
+60,Stock,Semiconductors
+61,Stock,Shoe Manufacturing
+62,Stock,Computer Communications Equipment
+63,Stock,Real Estate Investment Trusts
+64,Stock,Diversified Commercial Services
+65,Stock,Major Pharmaceuticals
+66,Stock,Major Pharmaceuticals
+67,Stock,Auto Parts:O.E.M.
+68,Stock,Industrial Machinery/Components
+69,Stock,Semiconductors
+70,Stock,Major Banks
+71,Stock,Semiconductors
+72,Stock,Semiconductors
+73,Stock,Computer Software: Prepackaged Software
+74,Stock,Electrical Products
+75,Stock,Biotechnology: Laboratory Analytical Instruments
+76,Stock,Major Pharmaceuticals
+77,Stock,Biotechnology: Laboratory Analytical Instruments
+78,Stock,Major Chemicals
+79,Stock,Trucking Freight/Courier Services
+80,Stock,Semiconductors
+81,Stock,Semiconductors
+82,Stock,Industrial Machinery/Components
+83,Stock,Apparel
+84,Stock,Apparel
+85,Stock,Medical/Dental Instruments
+86,Stock,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+87,Stock,Major Banks
+88,Stock,Real Estate Investment Trusts
+89,Stock,Steel/Iron Ore
+90,Stock Option,Semiconductors
+91,Stock,Computer Manufacturing
+92,Stock,Major Banks
+93,Stock,Investment Bankers/Brokers/Service
+94,Stock,Package Goods/Cosmetics
+95,Stock,"Computer Software: Programming, Data Processing"
+96,Stock,Radio And Television Broadcasting And Communications Equipment
+97,Stock,Restaurants
+98,Stock,Environmental Services
+99,Stock,Oilfield Services/Equipment
+100,Stock,Real Estate Investment Trusts
+101,Stock,Agricultural Chemicals
+102,Stock,Oil & Gas Production
+103,Stock,Aerospace
+104,Stock,Real Estate Investment Trusts
+105,Stock,Investment Managers
+106,Stock,Finance Companies
+107,Stock,Precious Metals
+108,Stock Option,Business Services
+109,Stock Option,Beverages (Production/Distribution)
+110,Stock,Oil & Gas Production
+111,Stock,Major Banks
+112,Stock,Medical/Nursing Services
+113,Stock,Major Pharmaceuticals
+114,Stock,Transportation Services
+115,Stock,Major Pharmaceuticals
+116,Stock,Industrial Specialties
+117,Stock,Precious Metals
+118,Stock,Hotels/Resorts
+119,Stock,Electrical Products
+120,Stock,Medical Electronics
+121,Stock,Precious Metals
+122,Stock,Medical/Dental Instruments
+123,Stock,Real Estate Investment Trusts
+124,Stock,Property-Casualty Insurers
+125,Stock,Investment Bankers/Brokers/Service
+126,Stock,Integrated oil Companies
+127,Stock,Computer Software: Prepackaged Software
+128,Stock,Finance: Consumer Services
+129,Stock Option,Package Goods/Cosmetics
+130,Stock Option,Business Services
+131,Stock Option,Specialty Chemicals
+132,Stock,Consumer Electronics/Appliances
+133,Stock,Major Banks
+134,Stock,Movies/Entertainment
+135,Stock,Broadcasting
+136,Stock,Television Services
+137,Stock,Medical/Dental Instruments
+138,Stock,Building Materials
+139,Stock,EDP Services
+140,Stock,Biotechnology: Pharmaceutical Preparations
+141,Stock,Medical/Dental Instruments
+142,Stock,Computer Software: Prepackaged Software
+143,Stock,Paints/Coatings
+144,Stock,Clothing/Shoe/Accessory Stores
+145,Stock,Industrial Machinery/Components
+146,Stock Option,Semiconductors
+147,Stock,Finance Companies
+148,Stock,Movies/Entertainment
+149,Stock,Television Services
+150,Stock,Broadcasting
+151,Stock Option,Integrated oil Companies
+152,Stock Option,Integrated oil Companies
+153,Stock,Major Pharmaceuticals
+154,Stock,Business Services
+155,Stock,Packaged Foods
+156,Stock,Real Estate Investment Trusts
+157,Stock,Real Estate Investment Trusts
+158,Stock,Real Estate Investment Trusts
+159,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+160,Stock,EDP Services
+161,Stock,Investment Bankers/Brokers/Service
+162,Stock,Investment Bankers/Brokers/Service
+163,Stock,Industrial Machinery/Components
+164,Stock,Beverages (Production/Distribution)
+165,Stock,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+166,Stock,Investment Bankers/Brokers/Service
+167,Stock,Aerospace
+168,Stock,Fluid Controls
+169,Stock,Other Consumer Services
+170,Stock,RETAIL: Building Materials
+171,Stock,Package Goods/Cosmetics
+172,Stock,Semiconductors
+173,Stock,Major Chemicals
+174,Stock,Air Freight/Delivery Services
+175,Stock,Real Estate Investment Trusts
+176,Stock,Major Pharmaceuticals
+177,Stock,Investment Managers
+178,Stock,Finance Companies
+179,Stock,Department/Specialty Retail Stores
+180,Stock,Major Pharmaceuticals
+181,Stock,Computer Software: Prepackaged Software
+182,Stock,RETAIL: Building Materials
+183,Stock,Computer peripheral equipment
+184,Stock,Real Estate Investment Trusts
+185,Stock,Office Equipment/Supplies/Services
+186,Stock,Department/Specialty Retail Stores
+187,Stock,Military/Government/Technical
+188,Stock,Construction/Ag Equipment/Trucks
+189,Stock,Major Banks
+190,Stock,Power Generation
+191,Stock,Computer Manufacturing
+192,Stock,Metal Mining
+193,Stock,Finance Companies
+194,Stock,Other Consumer Services
+195,Stock,Property-Casualty Insurers
+196,Stock,Computer Software: Prepackaged Software
+197,Stock,Real Estate Investment Trusts
+198,Stock,Specialty Chemicals
+199,Stock,Computer Software: Prepackaged Software
+200,Stock,Industrial Machinery/Components
+201,Stock,Major Banks
+202,Stock,Finance: Consumer Services
+203,Stock,Industrial Machinery/Components
+204,Stock,Consumer Electronics/Video Chains
+205,Stock,Major Banks
+206,Stock,Computer Software: Prepackaged Software
+207,Stock,Metal Fabrications
+208,Stock,Major Banks
+209,Stock,Major Banks
+210,Stock,Building Materials
+211,Stock,Beverages (Production/Distribution)
+212,Stock,Major Banks
+213,Stock,Major Chemicals
+214,Stock,Railroads
+215,Stock,Telecommunications Equipment
+216,Stock,Clothing/Shoe/Accessory Stores
+217,Stock,Biotechnology: Laboratory Analytical Instruments
+218,Stock,Major Banks
+219,Stock,Investment Bankers/Brokers/Service
+220,Stock,Major Pharmaceuticals
+221,Stock,Biotechnology: Pharmaceutical Preparations
+222,Stock,Computer Software: Prepackaged Software
+223,Stock,Industrial Machinery/Components
+224,Stock,Electric Utilities: Central
+225,Stock,Industrial Machinery/Components
+226,Stock,RETAIL: Building Materials
+227,Stock,Engineering & Construction
+228,Stock,Package Goods/Cosmetics
+229,Stock,EDP Services
+230,Stock,Apparel
+231,Stock,Medical Specialities
+232,Stock,Specialty Foods
+233,Stock,Medical/Nursing Services
+234,Stock,Major Pharmaceuticals
+235,Stock,Other Pharmaceuticals
+236,Stock,Apparel
+237,Stock,Beverages (Production/Distribution)
+238,Stock,Farming/Seeds/Milling
+239,Stock,Meat/Poultry/Fish
+240,Stock,Power Generation
+241,Stock,Movies/Entertainment
+242,Stock,Computer Software: Prepackaged Software
+243,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+244,Stock,Plastic Products
+245,Stock,EDP Services
+246,Stock,Business Services
+247,Stock,Water Supply
+248,Stock,Major Pharmaceuticals
+249,Stock,Business Services
+250,Stock,Department/Specialty Retail Stores
+251,Stock,Oil & Gas Production
+252,Stock,Finance/Investors Services
+253,Stock,Life Insurance
+254,Stock,Finance/Investors Services
+255,Stock,Industrial Machinery/Components
+256,Stock,Telecommunications Equipment
+257,Stock,Electric Utilities: Central
+258,Stock,Major Pharmaceuticals
+259,Stock,Major Banks
+260,Stock,Major Banks
+261,Stock,Industrial Specialties
+262,Stock,Medical Specialities
+263,Stock,Major Banks
+264,Stock,"Computer Software: Programming, Data Processing"
+265,Stock,Medical/Nursing Services
+266,Stock,EDP Services
+267,Stock,Real Estate Investment Trusts
+268,Stock,Property-Casualty Insurers
+269,Stock,Major Banks
+270,Stock,Finance: Consumer Services
+271,Stock,Beverages (Production/Distribution)
+272,Stock,Natural Gas Distribution
+273,Stock,Natural Gas Distribution
+274,Stock,Real Estate Investment Trusts
+275,Stock,"Trusts, Except Educational, Religious, and Charitable"
+276,Stock,Automotive Aftermarket
+277,Stock,"Computer Software: Programming, Data Processing"
+278,Stock,Packaged Foods
+279,Stock,Real Estate Investment Trusts
+280,Stock,Real Estate Investment Trusts
+281,Stock,Investment Managers
+282,Stock,Specialty Insurers
+283,Stock Option,Computer Software: Prepackaged Software
+284,Stock,Medical/Dental Instruments
+285,Stock,Electric Utilities: Central
+286,Stock,Marine Transportation
+287,Stock,Computer Software: Prepackaged Software
+288,Stock,Industrial Machinery/Components
+289,Stock,Electronic Components
+290,Stock,Major Banks
+291,Stock,Shoe Manufacturing
+292,Stock,Medical/Nursing Services
+293,Stock,Military/Government/Technical
+294,Stock,Computer Software: Prepackaged Software
+295,Stock,Semiconductors
+296,Stock,Telecommunications Equipment
+297,Stock,Commercial Banks
+298,Stock,Other Consumer Services
+299,Stock,Real Estate Investment Trusts
+300,Stock,Real Estate Investment Trusts
+301,Stock,Industrial Machinery/Components
+302,Stock,Real Estate Investment Trusts
+303,Stock,Department/Specialty Retail Stores
+304,Stock Option,Railroads
+305,Stock,Medical Specialities
+306,Stock,Electrical Products
+307,Stock,Semiconductors
+308,Stock,Medical Specialities
+309,Stock,Trucking Freight/Courier Services
+310,Stock,Recreational Games/Products/Toys
+311,Stock,Fluid Controls
+312,Stock,Computer peripheral equipment
+313,Stock,Computer Software: Prepackaged Software
+314,Stock,Business Services
+315,Stock,Package Goods/Cosmetics
+316,Stock Option,EDP Services
+317,Stock,Precious Metals
+318,Stock,Radio And Television Broadcasting And Communications Equipment
+319,Stock,Aerospace
+320,Stock,Catalog/Specialty Distribution
+321,Stock,Medical Specialities
+322,Stock,Computer Software: Prepackaged Software
+323,Stock,"Computer Software: Programming, Data Processing"
+324,Stock,Electric Utilities: Central
+325,Stock,"Computer Software: Programming, Data Processing"
+326,Stock,Major Banks
+327,Stock,Investment Bankers/Brokers/Service
+328,Stock,Beverages (Production/Distribution)
+329,Stock,Catalog/Specialty Distribution
+330,Stock,Electronic Components
+331,Stock,Hotels/Resorts
+332,Stock,Electronics Distribution
+333,Stock,Computer Software: Prepackaged Software
+334,Stock,Real Estate Investment Trusts
+335,Stock,Electric Utilities: Central
+336,Stock,Oil & Gas Production
+337,Stock,Semiconductors
+338,Stock,Business Services
+339,Stock,Computer peripheral equipment
+340,Stock,Military/Government/Technical
+341,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+342,Stock,Medical Specialities
+343,Stock,Integrated oil Companies
+344,Stock,Food Distributors
+345,Stock,Electronic Components
+346,Stock,Industrial Machinery/Components
+347,Stock,Real Estate
+348,Stock,Finance Companies
+349,Stock,Catalog/Specialty Distribution
+350,Stock,"Computer Software: Programming, Data Processing"
+351,Stock,Real Estate Investment Trusts
+352,Stock,Real Estate Investment Trusts
+353,Stock,Packaged Foods
+354,Stock,Air Freight/Delivery Services
+355,Stock,Computer Software: Prepackaged Software
+356,Stock,Real Estate Investment Trusts
+357,Stock,Radio And Television Broadcasting And Communications Equipment
+358,Stock,Computer Software: Prepackaged Software
+359,Stock,Real Estate Investment Trusts
+360,Stock,Biotechnology: Commercial Physical & Biological Resarch
+361,Stock,Professional Services
+362,Stock,Clothing/Shoe/Accessory Stores
+363,Stock,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+364,Stock,Major Pharmaceuticals
+365,Stock,EDP Services
+366,Stock,Oilfield Services/Equipment
+367,Stock,EDP Services
+368,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+369,Stock,Property-Casualty Insurers
+370,Stock,Auto Parts:O.E.M.
+371,Stock,Building Products
+372,Stock,Oilfield Services/Equipment
+373,Stock,Integrated oil Companies
+374,Stock,Property-Casualty Insurers
+375,Stock,Integrated oil Companies
+376,Stock,Real Estate Investment Trusts
+377,Stock,Computer Software: Prepackaged Software
+378,Stock,Hotels/Resorts
+379,Stock,Real Estate
+380,Stock,Auto Manufacturing
+381,Stock,Investment Bankers/Brokers/Service
+382,Stock,Industrial Machinery/Components
+383,Stock,Department/Specialty Retail Stores
+384,Stock,Air Freight/Delivery Services
+385,Stock,Broadcasting
+386,Stock,"Computer Software: Programming, Data Processing"
+387,Stock,Building operators
+388,Stock,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+389,Stock,Plastic Products
+390,Stock,Food Distributors
+391,Stock,Containers/Packaging
+392,Stock,Oil & Gas Production
+393,Stock,Services-Misc. Amusement & Recreation
+394,Stock,Semiconductors
+395,Stock,Containers/Packaging
+396,Stock,Oil & Gas Production
+397,Stock,Major Chemicals
+398,Stock,Clothing/Shoe/Accessory Stores
+399,Stock,Paints/Coatings
+400,Stock,Broadcasting
+401,Stock,Auto Manufacturing
+402,Stock,Natural Gas Distribution
+403,Stock,Natural Gas Distribution
+404,Stock,Oil & Gas Production
+405,Stock,Newspapers/Magazines
+406,Stock,Shoe Manufacturing
+407,Stock,Investment Managers
+408,Stock,Medical Specialities
+409,Stock,Broadcasting
+410,Stock,EDP Services
+411,Stock,Apparel
+412,Stock,Major Banks
+413,Stock,Rental/Leasing Companies
+414,Stock,Farming/Seeds/Milling
+415,Stock,Natural Gas Distribution
+416,Stock,Hospital/Nursing Management
+417,Stock,Life Insurance
+418,Stock,Consumer Electronics/Appliances
+419,Stock,Department/Specialty Retail Stores
+420,Stock,Integrated oil Companies
+421,Stock,Major Banks
+422,Stock,Broadcasting
+423,Stock,Major Chemicals
+424,Stock,Newspapers/Magazines
+425,Stock,Industrial Machinery/Components
+426,Stock,Metal Fabrications
+427,Stock,Oil & Gas Production
+428,Stock,Natural Gas Distribution
+429,Stock,Oil Refining/Marketing
+430,Stock,Natural Gas Distribution
+431,Stock,Oil/Gas Transmission
+432,Stock,Natural Gas Distribution
+433,Stock,Oil & Gas Production
+434,Stock,Natural Gas Distribution
+435,Stock,Natural Gas Distribution
+436,Stock,Natural Gas Distribution
+437,Stock,Natural Gas Distribution
+438,Stock,Natural Gas Distribution
+439,Stock,Natural Gas Distribution
+440,Stock,RETAIL: Building Materials
+441,Stock,Integrated oil Companies
+442,Stock,Accident &Health Insurance
+443,Stock,Diversified Commercial Services
+444,Stock,Electric Utilities: Central
+445,Other Securities,Investment Managers
+446,Stock,Electronic Components
+447,Stock,Restaurants
+448,Stock,Containers/Packaging
+449,Stock,Trucking Freight/Courier Services
+450,Stock,Major Pharmaceuticals
+451,Stock,Construction/Ag Equipment/Trucks
+452,Stock,Packaged Foods
+453,Stock,Property-Casualty Insurers
+454,Stock,Finance: Consumer Services
+455,Stock,Packaged Foods
+456,Stock,Investment Bankers/Brokers/Service
+457,Stock,Property-Casualty Insurers
+458,Stock,Industrial Machinery/Components
+459,Stock,Computer Software: Prepackaged Software
+460,Stock,Computer Software: Prepackaged Software
+461,Stock,Computer Software: Prepackaged Software
+462,Stock,Catalog/Specialty Distribution
+463,Stock,Business Services
+464,Stock,Electronic Components
+465,Stock Option,Property-Casualty Insurers
+466,Stock Option,Property-Casualty Insurers
+467,Stock Option,Computer peripheral equipment
+468,Stock,Biotechnology: Pharmaceutical Preparations
+469,Stock Option,Metal Fabrications
+470,Stock Option,Other Pharmaceuticals
+471,Stock Option,Property-Casualty Insurers
+472,Stock Option,Packaged Foods
+473,Stock,Home Furnishings
+474,Stock,Real Estate Investment Trusts
+475,Stock,Military/Government/Technical
+476,Stock,Medical/Dental Instruments
+477,Stock,Medical/Dental Instruments
+478,Stock,Biotechnology: Laboratory Analytical Instruments
+479,Stock,Industrial Machinery/Components
+480,Stock,Hotels/Resorts
+481,Stock,Natural Gas Distribution
+482,Stock,Advertising
+483,Stock,Telecommunications Equipment
+484,Stock,Clothing/Shoe/Accessory Stores
+485,Stock,Apparel
+486,Stock,Other Specialty Stores
+487,Stock,Industrial Machinery/Components
+488,Stock,Recreational Games/Products/Toys
+489,Stock,Investment Bankers/Brokers/Service
+490,Stock,Other Specialty Stores
+491,Stock,Television Services
+492,Stock,Natural Gas Distribution
+493,Stock,Natural Gas Distribution
+494,Stock,Industrial Machinery/Components
+495,Stock,Plastic Products
+496,Stock,Department/Specialty Retail Stores
+497,Stock,Other Consumer Services
+498,Stock,Paper
+499,Stock,Electric Utilities: Central
+500,Stock,Natural Gas Distribution
+501,Stock,Investment Managers
+502,Stock,Real Estate Investment Trusts
+503,Stock,Power Generation
+504,Stock,Medical/Nursing Services
+505,Stock,Business Services
+506,Stock,Real Estate Investment Trusts
+507,Stock,Electrical Products
+508,Stock,Agricultural Chemicals
+509,Stock,Major Banks
+510,Stock, Medicinal Chemicals and Botanical Products 
+511,Stock,EDP Services
+512,Stock,Oil & Gas Production
+513,Stock,RETAIL: Building Materials
+514,Stock,Industrial Specialties
+515,Stock,Medical Specialities
+516,Stock,Beverages (Production/Distribution)
+517,Stock,Natural Gas Distribution
+518,Stock,Hotels/Resorts
+519,Stock,EDP Services
+520,Stock,Industrial Machinery/Components
+521,Stock,Real Estate Investment Trusts
+522,Stock,Industrial Machinery/Components
+523,Stock,Major Pharmaceuticals
+524,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+525,Stock,Recreational Products/Toys
+526,Stock,Semiconductors
+527,Stock,Biotechnology: Commercial Physical & Biological Resarch
+528,Stock,Semiconductors
+529,Stock,Television Services
+530,Stock,Major Chemicals
+531,Stock,Packaged Foods
+532,Stock,Finance: Consumer Services
+533,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+534,Stock,Paints/Coatings
+535,Corporate Bond,Savings Institutions
+536,Stock,Automotive Aftermarket
+537,Stock,Beverages (Production/Distribution)
+538,Stock,Beverages (Production/Distribution)
+539,Stock,Railroads
+540,Stock,Major Banks
+541,Stock,Auto Parts:O.E.M.
+542,Stock,Transportation Services
+543,Stock,Major Banks
+544,Stock,Biotechnology: Commercial Physical & Biological Resarch
+545,Stock,Television Services
+546,Stock,Computer Software: Prepackaged Software
+547,Stock,Semiconductors
+548,Stock,Railroads
+549,Stock,Auto Parts:O.E.M.
+550,Stock,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+551,Stock,Oil Refining/Marketing
+552,Stock,Food Distributors
+553,Stock,Investment Managers
+554,Stock,Industrial Machinery/Components
+555,Stock,Other Specialty Stores
+556,Stock,Medical/Dental Instruments
+557,Stock,Marine Transportation
+558,Stock,Computer Software: Prepackaged Software
+559,Stock,Auto Parts:O.E.M.
+560,Stock,Electric Utilities: Central
+561,Stock,Oil & Gas Production
+562,Stock,Power Generation
+563,Stock,Diversified Commercial Services
+564,Stock,"Computer Software: Programming, Data Processing"
+565,Stock,Electric Utilities: Central
+566,Stock,Investment Bankers/Brokers/Service
+567,Stock,Oilfield Services/Equipment
+568,Stock,Oil & Gas Production
+569,Stock,Diversified Commercial Services
+570,Stock,Biotechnology: Laboratory Analytical Instruments
+571,Stock,Computer Software: Prepackaged Software
+572,Stock,Real Estate Investment Trusts
+573,Stock,Computer Software: Prepackaged Software
+574,Stock,EDP Services
+575,Stock,Air Freight/Delivery Services
+576,Stock,Major Chemicals
+577,Stock,Building Products
+578,Stock,Savings Institutions
+579,Stock,Semiconductors
+580,Stock,Telecommunications Equipment
+581,Stock,Oil Refining/Marketing
+582,Stock,Telecommunications Equipment
+583,Stock,Recreational Products/Toys
+584,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+585,Stock,Commercial Banks
+586,Stock,"Computer Software: Programming, Data Processing"
+587,Stock,Packaged Foods
+588,Stock,Industrial Specialties
+589,Stock,Other Pharmaceuticals
+590,Stock,EDP Services
+591,Stock,Biotechnology: Laboratory Analytical Instruments
+592,Stock,Natural Gas Distribution
+593,Stock,Life Insurance
+594,Stock,Meat/Poultry/Fish
+595,Stock,Military/Government/Technical
+596,Stock,Professional Services
+597,Stock,Major Chemicals
+598,Stock,Military/Government/Technical
+599,Stock,Plastic Products
+600,Stock,Major Pharmaceuticals
+601,Stock,Major Pharmaceuticals
+602,Stock,"Computer Software: Programming, Data Processing"
+603,Stock,Building operators
+604,Stock,Homebuilding
+605,Stock,Major Banks
+606,Stock,Electric Utilities: Central
+607,Stock,Major Banks
+608,Stock,Packaged Foods
+609,Stock,Oil & Gas Production
+610,Stock,Clothing/Shoe/Accessory Stores
+611,Stock,Semiconductors
+612,Stock,Diversified Commercial Services
+613,Stock,Finance: Consumer Services
+614,Stock,Clothing/Shoe/Accessory Stores
+615,Stock,Restaurants
+616,Stock,Restaurants
+617,Stock,Electronic Components
+618,Stock,Major Pharmaceuticals
+619,Stock,Environmental Services
+620,Stock,Industrial Specialties
+621,Stock,EDP Services
+622,Stock,Radio And Television Broadcasting And Communications Equipment
+623,Stock,Integrated oil Companies
+624,Stock,Clothing/Shoe/Accessory Stores
+625,Stock,Investment Managers
+626,Stock,Consumer Electronics/Appliances
+627,Stock,Other Consumer Services
+628,Stock,Major Chemicals
+629,Stock,Savings Institutions
+630,Stock,Environmental Services
+631,Stock,Power Generation
+632,Stock,Auto Manufacturing
+633,Stock,Construction/Ag Equipment/Trucks
+634,Stock,Diversified Commercial Services
+635,Stock,Diversified Commercial Services
+636,Stock,Oil & Gas Production
+637,Stock,Office Equipment/Supplies/Services
+638,Stock,Major Pharmaceuticals
+639,Stock,Power Generation
+640,Stock,Catalog/Specialty Distribution
+641,Stock,Television Services
+642,Stock,Oil/Gas Transmission
+643,Stock,Oil & Gas Production
+644,Stock,Industrial Machinery/Components
+645,Stock,Computer Software: Prepackaged Software
+646,Stock,Auto Manufacturing
+647,Stock,Electric Utilities: Central
+648,Stock,Marine Transportation
+649,Stock,Restaurants
+650,Stock,Tools/Hardware
+651,Stock,Packaged Foods
+652,Stock,Auto Parts:O.E.M.
+653,Stock,Biotechnology: Biological Products (No Diagnostic Substances)
+654,Stock,Major Banks
+655,Stock,Major Chemicals
+656,Stock,Computer Software: Prepackaged Software
+657,Stock,Major Banks
+658,Stock,Computer Software: Prepackaged Software
+659,Stock,Semiconductors
+660,Stock,Property-Casualty Insurers
+661,Stock,Shoe Manufacturing
+662,Stock,Metal Fabrications
+663,Stock,Business Services
+664,Stock,Metal Fabrications
+665,Stock,Water Supply
+666,Stock,Finance: Consumer Services
+667,Stock,Property-Casualty Insurers
+668,Stock,Semiconductors
+669,Stock,Telecommunications Equipment
+670,Stock,Real Estate Investment Trusts
+671,Stock,Biotechnology: Pharmaceutical Preparations
+672,Stock,Managed Health Care
+673,Stock,Computer Software: Prepackaged Software
+674,Stock,Security Systems Services
+675,Stock,Trucking Freight/Courier Services
+676,Stock,RETAIL: Building Materials
+677,Stock,Automotive Aftermarket
+678,Stock,Specialty Foods
+679,Stock,Medical/Dental Instruments
+680,Stock,Oil Refining/Marketing
+681,Stock,Medical/Dental Instruments
+682,Stock,Oilfield Services/Equipment
+683,Stock,Military/Government/Technical
+684,Stock,Hospital/Nursing Management
+685,Stock,Medical/Dental Instruments
+686,Stock,Metal Fabrications
+687,Stock,Investment Managers
+688,Stock,EDP Services
+689,Stock,Major Banks
+690,Stock,Metal Fabrications
+691,Stock,Computer Software: Prepackaged Software
+692,Stock,Food Distributors
+693,Stock,Diversified Commercial Services
+694,Stock,RETAIL: Building Materials
+695,Stock,Major Chemicals
+696,Stock,Military/Government/Technical
+697,Stock,Power Generation
+698,Stock,Real Estate Investment Trusts
+699,Stock,Industrial Machinery/Components
+700,Stock,Oil & Gas Production
